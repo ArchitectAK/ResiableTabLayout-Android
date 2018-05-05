@@ -12,6 +12,7 @@ import android.view.ViewGroup
 class DemoFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        return View(activity)
+        val view = inflater.inflate(R.layout.fragment_demo, container, false)
+        return view
     }
 }
