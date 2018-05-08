@@ -18,6 +18,8 @@ Add dependency to your project
  
 That's it. You are ready to rock.
 
+# See How it looks like 
+ ![](https://github.com/AnkitDroidGit/ResiableTabLayout-Android/blob/master/art/gif.gif)
 
 
 
